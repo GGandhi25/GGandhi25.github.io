@@ -30,7 +30,7 @@
 
 ---
 [Real Time Sign Language Detection using Keras-CNN and OpenCV](https://github.com/GGandhi25/RealTimeSignLanguageDetection.git)<br>
-<br><br><img src="images/sign-language-detection.jpeg?raw=true"/><br>
+<br><br><img src="images/sign-language-detection.jpeg?raw=true"/><br><br>
 
 
 ### Academic Research Papers
