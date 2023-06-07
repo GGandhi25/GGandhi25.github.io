@@ -8,7 +8,7 @@
 [Statistical Modeling From Scratch using Logistic Regression and KNN](https://github.com/GGandhi25/Census-Income-Classification.git)
 <br><br><img src="images/stat-modeling.png?raw=true"/><br>
 
-[Popular Video Games 1980 - 2023 🎮](https://github.com/GGandhi25/Popular-Video-Games.git)<br>
+[Popular Video Games 1980 - 2023 🎮: Exploratory Data Analysis (EDA)](https://github.com/GGandhi25/Popular-Video-Games.git)<br>
 <br><br><img src="images/best-video-games.png?raw=true"/><br>
 
 
