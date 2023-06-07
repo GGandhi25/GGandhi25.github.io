@@ -2,34 +2,34 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
+---
+[Statistical Modeling From Scratch using Logistic Regression and KNN](https://github.com/GGandhi25/Census-Income-Classification.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Popular Video Games 1980 - 2023 🎮](https://github.com/GGandhi25/Popular-Video-Games.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+### Data Extraction and Visualization 
 
 ---
-[Project 3 Title](http://example.com/)
+[Web Scraping Football Matches From The EPL](https://github.com/GGandhi25/DATA-EXTRACTION-ANALYSIS-ON-ENGLISH-PREMIER-LEAGUE.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Machine Learning | Natural Language Processing
 
 ---
+[Detecting Depression Using Twitter: 3 different Neural Networks to classify tweets](https://github.com/GGandhi25/DEPRESSION-DETECTION-USING-TWITTER.git)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
-
-
+### Machine Learning | Computer Vision | Dataset Creation
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[Real Time Sign Language Detection using Keras-CNN and OpenCV](https://github.com/GGandhi25/RealTimeSignLanguageDetection.git)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
