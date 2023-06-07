@@ -33,3 +33,12 @@
 <br><br><img src="images/sign-language-detection.jpeg?raw=true"/><br>
 
 
+### Academic Research Papers
+
+---
+[Analytics of Crime and Sentencing Information: Data Analysis, Predictive Modeling and Visualization of a Subset of Singapore State Court's Official Judgments](https://drive.google.com/file/d/1u4HNPa47Wf8zcvavjSQMBbE_19A8Udka/view?usp=sharing)<br>
+<br><br><img src="images/crime-analysis.jpeg?raw=true"/><br>
+
+[Analysing the User Susceptibility to Clickbait Headlines: Hierarchical-Moderated Multiple Regression using IBM SPSS Software](https://drive.google.com/file/d/1FVxFjURaXgeQqr3QQ1iO6Wa8xlk1eXFL/view?usp=sharing)<br>
+<br><br><img src="images/clickbait.jpeg?raw=true"/><br>
+
